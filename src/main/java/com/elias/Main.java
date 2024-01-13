@@ -14,7 +14,7 @@ public class Main extends Application {
      * @param args arguments from the command line.
      */
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        launch(args);
     }
 
     @Override
